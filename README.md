@@ -9,7 +9,7 @@ To deal with a multilingual setup, we have split the well-know datasets, like [L
 - **easy** subset
 - **hard** subset
 
-The vocabulary for each subset (hard and hard+easy) on each individual dataset consists the following words:
+The vocabulary for each subset (easy and hard) on each individual dataset consists the following words:
 
 **English**
 - the easy subset contains a total of 21,001 utterances, and the easy + hard subset contains a total of 49,199 utterances. 
