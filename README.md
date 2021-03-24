@@ -20,8 +20,8 @@ easy --- "apararea", "aruncare", "comision", "directioneaza", "dispozitiv", "eur
 - the easy subset contains a total of 11,810 utterances, and the easy + hard subset contains a total of 20,606 utterances. 
 easy --- "bei jing shi jian", "biao zhi", "da xing", "dai biao", "dong bu", "dou", "gei", "guo qu", "meng", "na", "ping tai", "tao", "ti sheng", "ting", "wen ding", "xi jin ping", "xing dong", "ying ji", "yong", "zhao kai", "ai ji", "bao chi", "bo chu", "bu duan", "cai fang", "chi xu"; hard --- "dong xi", "gou tong", "hu bei", "ju ban", "meng xiang", "qi wen", ",qiang", "qu nian", "shi liu", "shu ji", "ta men", "tan suo", "tian ran qi", "tui dong", "wem hua", "xin xing", "yi ding", "yi zhong", "zhong fang", "zi you", "zuo chu".
 
-The dispersion of the number of instances for each class is visualy presented in the below picture.
+The dispersion of the number of instances for each class is visually presented in the below picture.
 
 ![LRM_statistics_git](https://user-images.githubusercontent.com/39959212/112307956-3e26ef00-8caa-11eb-9747-e76433d0ba75.png)
 
-If you make use of this collection, please acknowledge the work of the authors by citing the following publication: Andrei Cosmin Jitaru, Liviu Daniel Ștefan and Bogdan Ionescu. 2020. Toward Language-independent Lip Reading: A Transfer Learning Approach. In 15-th International Symposium on Signals, Circuits and Systems (ISSCS21), June 14, 2021, Iași, Romania, IEEE, 4 pages, DOI: NA.
+If you make use of this collection, please acknowledge the work of the authors by citing the following publication: Andrei Cosmin Jitaru, Liviu Daniel Ștefan and Bogdan Ionescu. Toward Language-independent Lip Reading: A Transfer Learning Approach. In 15-th International Symposium on Signals, Circuits and Systems (ISSCS21), June 14, 2021, Iași, Romania, IEEE, 4 pages, DOI: NA.
