@@ -8,6 +8,7 @@ In this repository are presented the vocabulary of each subset used on our lip r
 To deal with a multilingual setup, we have split the well-know datasets, like [LRW](https://www.robots.ox.ac.uk/~vgg/publications/2016/Chung16/chung16.pdf), [LRW-1000](https://arxiv.org/pdf/1810.06990.pdf) and [LRRo](https://doi.org/10.1145/3339825.3394932 ) in two batches, based on the prediction difficulty> hard and hard+easy subset.
 
 The vocabulary for each subset (hard and hard+easy) on each individual dataset consists the following words:
+
 **English**
 - the easy subset contains a total of 21,001 utterances, and the easy + hard subset contains a total of 49,199 utterances. 
 easy --- "absolutely", "abuse", "according", "action", "actually", "africa", "benefits", "border", "business", "country", "crime", "europe", "events", "everything", "expected", "football", "foreign", "forward", "happening", "hospital", "human", "immigration", "important", "information", "inside", "islamic", "justice"; hard --- "known", "medical", "meeting", "message", "military", ",millions", "operation", "parents", "parliament", "parts", "perhaps", "political", "position", "prices", "response", "schools", "scottish", "secretary", "system", "taking".
