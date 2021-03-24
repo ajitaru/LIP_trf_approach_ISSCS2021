@@ -1,4 +1,4 @@
-# transfer_learning_lip_ISSCS2021
+#  LIP_transfer_learning_approach_ISSCS2021
 
 **Toward Language-independent Lip Reading: A Transfer Learning Approach at ISSCS21**
 
