@@ -5,7 +5,9 @@
 
 In this repository are presented the vocabulary of each subset used on our lip reading experiments published in the 15-th International Symposium on Signals, Circuits and Systems.
 
-To deal with a multilingual setup, we have split the well-know datasets, like [LRW](https://www.robots.ox.ac.uk/~vgg/publications/2016/Chung16/chung16.pdf), [LRW-1000](https://arxiv.org/pdf/1810.06990.pdf) and [LRRo](https://doi.org/10.1145/3339825.3394932 ) in two batches, based on the prediction difficulty> hard and hard+easy subset.
+To deal with a multilingual setup, we have split the well-know datasets, like [LRW](https://www.robots.ox.ac.uk/~vgg/publications/2016/Chung16/chung16.pdf), [LRW-1000](https://arxiv.org/pdf/1810.06990.pdf) and [LRRo](https://doi.org/10.1145/3339825.3394932 ) in two categories based on the prediction difficulty, as follow:
+- **hard** subset
+- **hard+easy** subset
 
 The vocabulary for each subset (hard and hard+easy) on each individual dataset consists the following words:
 
